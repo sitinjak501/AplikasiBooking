@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AppBook</string>
+    <string name="Booking">BOOKING</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+
+    <string-array name="Jam_Admin">
+        <item>Pilih Jam</item>
+        <item>08:00-08:59</item>
+        <item>09:00-09:59</item>
+        <item>10:00-10:59</item>
+        <item>11:00-11:59</item>
+        <item>12:00-12:59</item>
+        <item>13:00-13:59</item>
+        <item>14:00-14:59</item>
+        <item>15:00-15:59</item>
+        <item>16:00-16:59</item>
+        <item>17:00-17:59</item>
+        <item>18:00-18:59</item>
+        <item>19:00-19:59</item>
+        <item>20:00-20:59</item>
+        <item>21:00-21:59</item>
+
+    </string-array>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="harga">Harga : Rp. 150.000/Jam</string>
+    <string name="hargabdm">Harga : Rp. 45.000/Jam</string>
+    <string name="futsalvynyl">Lapangan Futsal Vynil</string>
+    <string name="todo">TODO</string>
+    <string name="fa">Fasilitas :</string>
+    <string name="desc">Desc :</string>
+    <string name="deskripsi">GSC menyediakan lapangan Futsal dengan berbagai fasilitas pokok seperti Papan Skor, Futsal Shield, dan Ruang Ganti. Berlokasi Kelapa Dua, Cimanggis, Depok.</string>
+    <string name="deskripsibdm">GSC menyediakan lapangan Badminton dengan berbagai fasilitas pokok seperti Papan Skor dan Ruang Ganti. Berlokasi Kelapa Dua, Cimanggis, Depok.</string>
+    <string name="book">Booking Now</string>
+    <string name="info">Harap Menunggu Konfirmasi Pesanan Anda Dari Pihak Lapangan</string>
+</resources>
